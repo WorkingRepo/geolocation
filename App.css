@@ -1,0 +1,15 @@
+.App {
+  padding: 10px;
+}
+
+.App .mood {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+body {
+  padding: 20px;
+  background-color:#ffffc9
+}
+
+p { margin : 0; }
